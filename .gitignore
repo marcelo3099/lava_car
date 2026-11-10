@@ -1,0 +1,9 @@
+# Pacotes baixados pelo npm (são recriados com "npm install")
+node_modules/
+
+# Segredos: NUNCA vão para o GitHub
+.env
+
+# Arquivos gerados
+dist/
+*.log
